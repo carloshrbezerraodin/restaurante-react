@@ -1,4 +1,4 @@
-# Foobar
+# Reasturante App React
 
 Teste de front para uma aplicacao de restaurante
 
