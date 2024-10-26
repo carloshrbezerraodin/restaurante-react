@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/(.*)",
+      "destination": "https://cdn-dev.preoday.com/$1"
+    }
+  ]
+}
